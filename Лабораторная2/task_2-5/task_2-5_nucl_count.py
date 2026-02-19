@@ -1,0 +1,16 @@
+dna = input("Введите последовательность днк: ").upper()
+count_A = dna.count("A")
+count_T = dna.count("T")
+count_G = dna.count("G")
+count_C = dna.count("C")
+sum = (count_A) + (count_T) + (count_G) + (count_C)
+
+print(f"=== Анализ последовательностей ДНК ===")
+print(f"введите последовательность ДНК: {dna}")
+print(f"Подсчет нуклеотидов: ")
+print(f"A: {count_A}")
+print(f"T: {count_T}")
+print(f"G: {count_G}")
+print(f"C: {count_C}")
+print(f"Общая длина: {sum} нуклеотидов")
+
