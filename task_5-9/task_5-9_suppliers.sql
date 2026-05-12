@@ -1,0 +1,22 @@
+INSERT INTO suppliers (name, product_id) VALUES
+('Global Trade LLC', 1), ('FastDelivery Inc', 1),
+('Tech Solutions', 2), ('Smart Parts', 2),
+('Green Food Co', 3), ('Eco Harvest', 3),
+('Main Distributing', 4), ('Region Logistics', 4),
+('Office World', 5), ('Paper & Pen Ltd', 5),
+('Industrial Gear', 6), ('Heavy Metal Corp', 6),
+('Soft Line', 7), ('Digital Best', 7),
+('Aqua Pure', 8), ('Fresh Water', 8),
+('Fashion Group', 9), ('Trend Setter', 9),
+('Home Comfort', 10), ('Interior Design', 10),
+
+('Global Trade LLC', 11),
+('Tech Solutions', 12),
+('Green Food Co', 13),
+('Main Distributing', 14),
+('Office World', 15),
+('Industrial Gear', 16),
+('Soft Line', 17),
+('Aqua Pure', 18),
+('Fashion Group', 19),
+('Home Comfort', 20);
